@@ -1,5 +1,3 @@
-
-
 const Navbar = ({ search, setSearch }) => {
   return (
     <div className="sticky-header">
